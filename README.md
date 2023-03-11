@@ -1,5 +1,5 @@
 ## Welcome to my GitHub page!
-### Hi there I'm Bibek Neupane. 👋
+### I'm Bibek Neupane. 👋
 
 Welcome to my Github page! I am a .NET developer currently exploring the ABP framework to develop web apps and microservices. I am passionate about learning and contributing to open source projects. 
 
