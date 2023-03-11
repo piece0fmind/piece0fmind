@@ -1,16 +1,15 @@
-### Hi there 👋
+## Welcome to my GitHub page!
+### Hi there I'm Bibek Neupane. 👋
 
-<!--
-**piece0fmind/piece0fmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github page! I am a .NET developer currently exploring the ABP framework to develop web apps and microservices. I am passionate about learning and contributing to open source projects. 
 
-Here are some ideas to get you started:
+## My Skills
+- C# <i class="devicon-csharp-line-wordmark"></i>
+- ASP .NET Core <i class="devicon-dotnetcore-plain"></i>
+- MySQL <i class="devicon-mysql-plain"></i>
+- PostgreSQL <i class="devicon-postgresql-plain"></i>
+- Git <i class="devicon-git-plain"></i>
+- ABP framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My LiknedIn Profile
+www.linkedin.com/in/bibekneupane4781
