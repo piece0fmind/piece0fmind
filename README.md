@@ -1,14 +1,19 @@
 ## Welcome to my GitHub page!
 ### I'm Bibek Neupane. 👋
 
-Welcome to my Github page! I am a .NET developer currently exploring the ABP framework to develop web apps and microservices. I am passionate about learning and contributing to open source projects. 
+I am a .NET developer currently exploring the ABP framework to develop web apps and microservices. I am passionate about learning and contributing to open source projects.
 
 ## My Skills
-- C# <i class="devicon-csharp-line-wordmark"></i>
-- ASP .NET Core <i class="devicon-dotnetcore-plain"></i>
-- MySQL <i class="devicon-mysql-plain"></i>
-- PostgreSQL <i class="devicon-postgresql-plain"></i>
-- Git <i class="devicon-git-plain"></i>
+- C# <img align = "left" alt = "c#" width = "30px" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" /> 
+
+- ASP .NET Core <img align = "left" alt = "c#" width = "30px" title=".NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+
+- MySQL <img align = "left" alt = "c#" width = "30px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+- PostgreSQL <img align = "left" alt = "c#" width = "30px" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+- Git <img align = "left" alt = "c#" width = "30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 - ABP framework
 
 ## My LiknedIn Profile
