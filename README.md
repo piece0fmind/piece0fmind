@@ -16,5 +16,6 @@ I am a .NET developer currently exploring the ABP framework to develop web apps 
 
 - ABP framework
 
-## My LiknedIn Profile
-www.linkedin.com/in/bibekneupane4781
+## Connect with me
+<img align = "left" alt = "c#" width = "30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> www.linkedin.com/in/bibekneupane4781 
+
