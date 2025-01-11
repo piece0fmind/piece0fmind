@@ -1,7 +1,7 @@
 ## Welcome to my GitHub page!
 ### I'm Bibek Neupane. 👋
 
-I am a .NET developer currently exploring the .NET ecosystem to develop applications. I am passionate about learning and I'm trying to contribute to the open source community.
+I am a .NET developer currently exploring the .NET ecosystem to develop applications. I am passionate about learning and building stuff in my free time.
 
 ## My Skills
 - C# <img align = "left" alt = "c#" width = "30px" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" /> 
